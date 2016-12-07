@@ -13,7 +13,7 @@ public class CharCount {
 			System.out.println(input[i]);
 			i++;
 		}
-		//kmadadammdlkasd
+		
 		for (char c = 'a';c<='z';c++){
 			count=0;
 			for (char x:input){
@@ -23,7 +23,7 @@ public class CharCount {
 			//This is comment
 			
 			if(count!=0)
-				System.out.println("Count of "+c+" is "+count);
+				System.out.println("Count of "+c+" is "+count); sasasa
 		}
 		
 			
