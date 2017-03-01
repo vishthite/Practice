@@ -23,7 +23,7 @@ public class CharCount {
 			//This is comment
 			
 			if(count!=0)
-				System.out.println("Count of "+c+" is "+count); sasasa
+				System.out.println("Count of "+c+" is "+count); 
 		}
 		
 			
